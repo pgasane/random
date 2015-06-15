@@ -1,6 +1,6 @@
 Random
 
-Random is a ttesting program to exercise Git and GitHub use.
+Random is a testing program for train the Git and GitHub use.
 
 Copyright and license
 
