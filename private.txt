@@ -1,0 +1,5 @@
+Este documento contendrá información privada sobre el proyecto.
+
+Este documento no se añadirá al índice ni figurará en el proyecto.
+
+Solo se usará en local por el autor.
